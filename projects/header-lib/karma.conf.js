@@ -28,11 +28,11 @@ module.exports = function (config) {
       dir: require('path').join(__dirname, '../../coverage/header-lib'),
       subdir: '.',
       reporters: [{ type: 'json' }, { type: 'text-summary' }],
-      thresholds:{
-        statments:80,
-        lines:80,
-        branches:80,
-        functions:80
+      thresholds: {
+        statments: 80,
+        lines: 80,
+        branches: 80,
+        functions: 80
       }
     },
     reporters: ['progress', 'kjhtml'],
