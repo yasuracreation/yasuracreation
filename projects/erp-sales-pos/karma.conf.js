@@ -27,7 +27,13 @@ module.exports = function (config) {
     coverageReporter: {
       dir: require('path').join(__dirname, '../../coverage/erp-sales-pos'),
       subdir: '.',
-      reporters: [{ type: 'json' }, { type: 'text-summary' }]
+      reporters: [{ type: 'json' }, { type: 'text-summary' }],
+      thresholds:{
+        statments:80,
+        lines:80,
+        branches:80,
+        functions:80
+      }
     },
     reporters: ['progress', 'kjhtml'],
     port: 9876,
