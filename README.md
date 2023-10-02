@@ -25,15 +25,17 @@ I am a full-stack software engineer with 7+ years of experience developing web a
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Diverse Tech Stack Mastery
+- 🚀 Conveys growth, progress, and forward momentum.
 
-- 🌱 7+ Years of Professional Experience
+- 🌟 Represents excellence, achievement, and standout qualities.
   
-- ❓ Fullstack Development Excellence
+- 🔧 Signifies problem-solving, versatility, and adaptability.
   
 - ⚡ Collaborative Problem Solver
   
-- Continuous Learning and Innovation
+- 🎯 Symbolizes precision, focus, and goal orientation.
+  
+- 🛠️ Represents craftsmanship, skill, and hands-on expertise.
 
 </td><td valign="top" width="50%">
 
