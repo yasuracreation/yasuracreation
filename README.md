@@ -30,11 +30,15 @@ I am a full-stack software engineer with 7+ years of experience developing web a
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as a Senior Software engineer in Codegen International  
+- 🔭 Diverse Tech Stack Mastery
+
+- 🌱 7+ Years of Professional Experience
   
-
-- 🌱 I am fulstack engineer who have better skills in both Frontend framework like angular , react and backend Nodejs ,java , python ,php  
-
+- ❓ Fullstack Development Excellence
+  
+- ⚡ Collaborative Problem Solver
+  
+- Continuous Learning and Innovation
 
 </td><td valign="top" width="50%">
 
