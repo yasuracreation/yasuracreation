@@ -27,7 +27,7 @@ I am a full-stack software engineer with 7+ years of experience developing web a
 <br/>  
 
 
-## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working as a Senior Software engineer in Codegen International  
