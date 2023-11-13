@@ -124,8 +124,7 @@ I am a full-stack software engineer with 8+ years of experience developing web a
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=https://github.com/yasuracreation&&style=flat-square)  
-  
+
 
 <br/>  
 
