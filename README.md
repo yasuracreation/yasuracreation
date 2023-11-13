@@ -16,7 +16,7 @@
 
 
 ### Glad to see you here!  
-I am a full-stack software engineer with 7+ years of experience developing web applications, automation bots, and Hybrid Mobile applications. I have led and collaborated with teams of software engineers using PHP, NodeJS, MongoDB, Express, and GraphQL. My expertise includes the MVC, Headless, and Micro-services architectures. I am results-driven and stay up-to-date with the latest advancements in the field. I am excited to bring my skills and passion to your team and contribute to your success.  
+I am a full-stack software engineer with 8+ years of experience developing web applications, automation bots, and Hybrid Mobile applications. I have led and collaborated with teams of software engineers using PHP, NodeJS, MongoDB, Express, and GraphQL. My expertise includes the MVC, Headless, and Micro-services architectures. I am results-driven and stay up-to-date with the latest advancements in the field. I am excited to bring my skills and passion to your team and contribute to your success.  
   
 
 <br/>  
