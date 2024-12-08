@@ -6,7 +6,7 @@ Senior Software Engineer with 8+ years of experience in full-stack development, 
 ### 🔗 Quick Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yasura-dissanayaka/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/yasuracreation)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://www.yasisland.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://www.yasura.lk/)
 
 ## 🛠 Technology Stack
 
