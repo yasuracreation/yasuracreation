@@ -136,7 +136,7 @@ Senior Software Engineer with 8+ years of experience in full-stack development, 
 ### 💬 Contact Me
 - 📧 Email: yasuracreation@gmail.com
 - 📱 Phone: +94 711 526 716
-- 🌍 Location: Harispattuwa, Sri Lanka
+- 🌍 Location: Kandy, Sri Lanka
 
 ### 💡 Personal Philosophy
 > "Innovation is not just about creating technology, but about solving real-world problems and making a meaningful impact."
