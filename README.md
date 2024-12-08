@@ -1,55 +1,38 @@
-## Hey 👋, I'm  Yasura Dissanayake  
-  
+# 👋 Hi, I'm Yasura Dissanayake
 
-<a href="https://github.com/yasuracreation" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/YasuraDissanaya" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yasura-dissanayaka/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+## 🚀 About Me
+Senior Software Engineer with 8+ years of experience in full-stack development, specializing in creating innovative technological solutions. Passionate about leveraging cutting-edge technologies to solve complex problems.
 
-  
+### 🔗 Quick Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yasura-dissanayaka/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/yasuracreation)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://www.yasisland.com/)
 
+## 🛠 Technology Stack
 
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### Glad to see you here!  
-I am a full-stack software engineer with 8+ years of experience developing web applications, automation bots, and Hybrid Mobile applications. I have led and collaborated with teams of software engineers using PHP, NodeJS, MongoDB, Express, and GraphQL. My expertise includes the MVC, Headless, and Micro-services architectures. I am results-driven and stay up-to-date with the latest advancements in the field. I am excited to bring my skills and passion to your team and contribute to your success.  
-  
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-<br/>  
+### Databases
+![Apache Cassandra](https://img.shields.io/badge/-Apache%20Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+## 📊 GitHub Stats
+![Yasura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasuracreation&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuracreation&layout=compact&theme=radical)
 
-
-<table><tr><td valign="top" width="50%">
-
-- 🚀 Conveys growth, progress, and forward momentum.
-
-- 🌟 Represents excellence, achievement, and standout qualities.
-  
-- 🔧 Signifies problem-solving, versatility, and adaptability.
-  
-- ⚡ Collaborative Problem Solver
-  
-- 🎯 Symbolizes precision, focus, and goal orientation.
-  
-- 🛠️ Represents craftsmanship, skill, and hands-on expertise.
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.licdn.com/dms/image/D5603AQHMqv1r6JljpQ/profile-displayphoto-shrink_800_800/0/1673001727312?e=1701907200&v=beta&t=vChaq62xjmVL_91UzyojK6EznZRx6OXNH90BpJG3lIg" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
+## Other Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -109,26 +92,55 @@ I am a full-stack software engineer with 8+ years of experience developing web a
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
 </div>  
 
-<br/>  
+## 🚀 Professional Highlights
 
+### Recent Projects
+1. **JobSeeker Market Platform**
+   - 🔧 Technologies: Node.js, React.js, Apache Cassandra, Azure
+   - 📈 Achieved 60% new user enrollment within the first month
+   - 🏆 Developed comprehensive job marketplace solution
 
+2. **Process Automation System**
+   - 🔧 Technologies: Angular 17, .NET Core, C#, Azure
+   - 🤖 Integrated machine learning for enhanced performance
+   - 🔍 Implemented advanced distance measurement techniques
 
+## 💡 Professional Expertise
+- Full-stack Application Development
+- Cloud Native Solutions
+- Process Automation
+- Machine Learning Integration
+- Performance Optimization
 
+## 🏆 Key Achievements
+- Enhanced B2C application, improving load times by 30%
+- Secured new business opportunities through innovative demos
+- Implemented modular front-end architectures
+- Analyzed and resolved code security breaches
 
+## 📚 Education
+- **Master in Computer Science**, University of Peradeniya
+  - GPA: 3.01
+  - Specialized in Machine Learning, Neural Networks, Image Processing
 
-</td></tr></table>  
+- **B.Tech in Software Engineering**, University of Vocational Technology
+  - GPA: 3.00
 
-<br/>  
+## 🌐 Professional Interests
+- Blockchain Technology
+- AI and Machine Learning
+- Cloud Computing
+- Software Architecture
+- Innovative Tech Solutions
 
-  
+### 💬 Contact Me
+- 📧 Email: yasuracreation@gmail.com
+- 📱 Phone: +94 711 526 716
+- 🌍 Location: Harispattuwa, Sri Lanka
 
-<br/>  
+### 💡 Personal Philosophy
+> "Innovation is not just about creating technology, but about solving real-world problems and making a meaningful impact."
 
+---
 
-
-<br/>  
-
-
-<br />
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=yasuracreation&color=blueviolet)
